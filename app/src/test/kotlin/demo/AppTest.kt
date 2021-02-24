@@ -1,11 +1,7 @@
 package demo
 
-
-
-
 import org.apache.logging.log4j.LogManager
 import kotlin.test.Test
-
 
 class AppTest {
 
